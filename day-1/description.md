@@ -9,6 +9,8 @@ I randomized the location and size of the stars, so it appears like the earth is
 
 I started with the earth just being a big blue circle, but I thought it would be more fun to have an actual image. Of course, maybe it's more 100 days like to do one and then the other but eh, it's my frist time and it's the first day. 
 
+[view the sketch on the p5.js editor](https://github.com/zoebachman/100-Days-of-Space)
+
 Happy start of 100 days!
 
 
