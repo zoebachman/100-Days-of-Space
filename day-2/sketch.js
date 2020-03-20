@@ -1,6 +1,4 @@
 let img;
-let angle = 0;
-let speed = 0;
 
 function preload() {
   img = loadImage('earth_no_background.png');
