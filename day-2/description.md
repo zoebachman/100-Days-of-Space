@@ -1,4 +1,4 @@
-# DAY 1 - 
+# DAY 2 - 
 
 So, now that I'm on my second day, I'm reaallly starting to wish that I had done a simpler version yesterday. I mean, I guess I could just redo my one for yesterday and then make the other one today and this one tomorrow but like, honestly, doesn't matter. 
 

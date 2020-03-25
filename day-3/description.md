@@ -1,4 +1,4 @@
-# DAY 1 - 
+# DAY 3 - 
 
 Third day. I'm tired. Maybe it's the end of the week, maybe it's something else, but in any case I'm glad I already knew what I wanted to do so I could just do it. 
 
